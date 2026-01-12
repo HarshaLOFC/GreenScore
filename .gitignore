@@ -1,0 +1,4 @@
+evaluation/
+.venv/
+__pycache__/
+*.csv
