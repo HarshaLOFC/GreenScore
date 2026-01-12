@@ -6,9 +6,9 @@ The project enables sustainability-aware model selection through an interactive 
 
 ---
 
-## 🚀 Live Demo
-🔗 **(Add your Streamlit Cloud link here after deployment)**  
-Example: https://greenscore.streamlit.app
+## 🚀 Link
+🔗 https://greenscore-benchmarking.streamlit.app/
+
 
 ---
 
@@ -169,3 +169,4 @@ The application is designed to be deployed on **Streamlit Community Cloud**, pro
 
 ## 📜 License
 This project is intended for academic and educational purposes.
+
